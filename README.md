@@ -9,3 +9,10 @@ Fine-tuned TinyLlama using LoRA (Low-Rank Adaptation) on a custom instruction-re
 ![After fine-tuning](lora-demo/Screenshots/after.png)
 
 ## Project Structure
+LLM_fine_tuning/
+
+├── train.py
+├── before_training.py
+├── after_training.py
+├── dataset.json
+└── Screenshots/
